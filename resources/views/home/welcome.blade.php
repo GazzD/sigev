@@ -106,41 +106,55 @@
 		<div class="inner gallery">
 			<div class="row 0%">
 				<div class="3u 12u(mobile)">
-					<a href="images/icons/html.png" class="image fit bg-white"><img
-						src="images/icons/html.png" alt="" title="Cyberia Tech Lab pone a su disposición servicios de diseño,
-				desarrollo web, edición de audio y video y más." /></a>
+					<a href="images/icons/html2.png" class="image fit"><img
+						src="images/icons/html2.png" class = "bg-white img-circle" alt="" title="Creación de sitios web" /></a>
+				<p class ="white">Cyberia Tech Lab pone a su disposición servicios de diseño,
+				desarrollo web, edición de audio y video y más.</p>
 				</div>
 				<div class="3u 12u(mobile)">
-					<a href="images/icons/mobile.png" class="image fit bg-white"><img
-						src="images/icons/mobile.png" alt="" title="Dressed in Clarity" /></a>
+					<a href="images/icons/mobile.png" class="image fit"><img
+						src="images/icons/mobile.png" class = "bg-white img-circle" alt="" title="Diseño Responsivo" /></a>
+				<p class ="white">Cyberia Tech Lab pone a su disposición servicios de diseño,
+				desarrollo web, edición de audio y video y más.</p>
 				</div>
 				<div class="3u 12u(mobile)">
-					<a href="images/icons/social.png" class="image fit bg-white"><img
-						src="images/icons/social.png" alt="" title="Raven" /></a>
+					<a href="images/icons/social.png" class="image fit"><img
+						src="images/icons/social.png" class = "bg-white img-circle" alt="" title="Redes Sociales" /></a>
+				<p class ="white">Cyberia Tech Lab pone a su disposición servicios de diseño,
+				desarrollo web, edición de audio y video y más.</p>
 				</div>
 				<div class="3u 12u(mobile)">
-					<a href="images/icons/video.png" class="image fit bg-white"><img
-						src="images/icons/video.png" alt=""
-						title="I'll have a cup of Disneyland, please" /></a>
+					<a href="images/icons/video2.png" class="image fit"><img
+						src="images/icons/video2.png" class = "bg-white img-circle" alt=""
+						title="Edición de Video e Imagenes" /></a>
+				<p class ="white">Cyberia Tech Lab pone a su disposición servicios de diseño,
+				desarrollo web, edición de audio y video y más.</p>
 				</div>
 			</div>
 			<div class="row 0%">
 				<div class="3u 12u(mobile)">
-					<a href="images/icons/elearning.png" class="image fit"><img
-						src="images/icons/elearning.png" class = "bg-white img-circle" alt="" title="Cherish" /></a>
+					<a href="images/icons/elearning2.png" class="image fit"><img
+						src="images/icons/elearning2.png" class = "bg-white img-circle" alt="" title="e-Learning" /></a>
+				<p class ="white">Cyberia Tech Lab pone a su disposición servicios de diseño,
+				desarrollo web, edición de audio y video y más.</p>
 				</div>
 				<div class="3u 12u(mobile)">
-					<a href="images/fulls/06.jpg" class="image fit "><img
-						src="images/thumbs/06.jpg" alt="" title="Different." /></a>
+					<a href="images/icons/zawarudo2.png" class="image fit"><img
+						src="images/icons/zawarudo2.png" class = "bg-white img-circle" alt="" title="Posicionamiento" /></a>
+				<p class ="white">Cyberia Tech Lab pone a su disposición servicios de diseño,
+				desarrollo web, edición de audio y video y más.</p>
 				</div>
 				<div class="3u 12u(mobile)">
-					<a href="images/fulls/07.jpg" class="image fit"><img
-						src="images/thumbs/07.jpg" alt="" title="History was made here" /></a>
+					<a href="images/icons/ecommerce.png" class="image fit"><img
+						src="images/icons/ecommerce.png" class = "bg-white img-circle" alt="" title="e-Commerce" /></a>
+				<p class ="white">Cyberia Tech Lab pone a su disposición servicios de diseño,
+				desarrollo web, edición de audio y video y más.</p>
 				</div>
 				<div class="3u 12u(mobile)">
-					<a href="images/fulls/08.jpg" class="image fit"><img
-						src="images/thumbs/08.jpg" alt=""
-						title="People come and go and walk away" /></a>
+					<a href="images/icons/ask.png" class="image fit"><img
+						src="images/icons/ask.png" class = "bg-white img-circle" alt="" title="Asesoría" /></a>
+				<p class ="white">Cyberia Tech Lab pone a su disposición servicios de diseño,
+				desarrollo web, edición de audio y video y más.</p>
 				</div>
 			</div>
 		</div>
